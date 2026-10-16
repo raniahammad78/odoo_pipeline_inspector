@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="indBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="pipeMetal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e2e8f0"/>
+      <stop offset="50%" stop-color="#94a3b8"/>
+      <stop offset="100%" stop-color="#475569"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="52" fill="url(#indBg)"/>
+  <rect x="28" y="108" width="200" height="44" rx="6" fill="url(#pipeMetal)"/>
+  <rect x="52" y="98" width="16" height="64" rx="4" fill="#cbd5e1"/>
+  <rect x="188" y="98" width="16" height="64" rx="4" fill="#cbd5e1"/>
+  <path d="M92 152 L164 152 L176 196 L80 196 Z" fill="#f59e0b"/>
+  <rect x="68" y="192" width="120" height="14" rx="4" fill="#d97706"/>
+  <circle cx="128" cy="96" r="42" fill="#ffffff" stroke="#0f172a" stroke-width="8"/>
+  <circle cx="128" cy="96" r="32" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+  <path d="M113 96 L124 107 L145 84" fill="none" stroke="#10b981" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
