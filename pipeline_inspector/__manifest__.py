@@ -21,7 +21,8 @@
         'reports/pipeline_report.xml',
         'views/menu.xml',
     ],
-    'images': ['static/description/icon.png'],
-    'installable': True,
+'images': [
+        'static/description/icon.png'
+    ],    'installable': True,
     'application': True,
 }
